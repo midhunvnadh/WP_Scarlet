@@ -1,0 +1,20 @@
+@charset "UTF-8";
+/*
+Theme Name: Scarlet
+Theme URI: https://design.midhunvnadh.ml/
+Author: Midhun V Nadh
+Author URI: https://midhunvnadh.ml/
+Description: A light-weight website
+Version: 2021.1
+Tags: one-column, two-columns, custom-menu, featured-images, microformats, sticky-post, threaded-comments, translation-ready
+Text Domain: scarlet
+
+Scarlet WordPress Theme © 2020-2021 MidhunVNadh
+*/
+@import url("https://fonts.googleapis.com/css2?family=Baloo+Tammudu+2&family=PT+Sans&display=swap");
+html body {
+  font-family: 'Baloo Tammudu 2', cursive;
+  font-family: 'PT Sans', sans-serif;
+  margin: 0;
+}
+/*# sourceMappingURL=style.css.map */
